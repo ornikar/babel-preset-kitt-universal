@@ -1,0 +1,36 @@
+{
+  "name": "@ornikar/babel-preset-kitt-universal",
+  "version": "0.1.0",
+  "keywords": [],
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (https://christophe.hurpeau.com)",
+  "repository": "ornikar/babel-preset-kitt-universal",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 14.17.5"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "prettier": "@ornikar/prettier-config",
+  "main": "./lib/index.js",
+  "sideEffects": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0"
+  },
+  "dependencies": {
+    "babel-plugin-linaria-css-to-undefined": "^0.1.0",
+    "babel-plugin-react-native": "^1.0.0",
+    "babel-plugin-styled-components": "^2.0.2",
+    "babel-plugin-styled-components-react-native-web": "^0.2.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.16.7",
+    "@ornikar/prettier-config": "4.0.1",
+    "jest": "27.4.7",
+    "prettier": "2.5.1"
+  },
+  "jest": {}
+}
