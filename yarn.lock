@@ -709,10 +709,10 @@ babel-plugin-jest-hoist@^27.4.0:
     "@types/babel__core" "^7.0.0"
     "@types/babel__traverse" "^7.0.6"
 
-babel-plugin-linaria-css-to-undefined@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/babel-plugin-linaria-css-to-undefined/-/babel-plugin-linaria-css-to-undefined-0.2.0.tgz#5ffea470b0f5819bdb76343e2736a3a641d3e312"
-  integrity sha512-pm+UgJdKo5y9G7NabaVylSWpMvY4Hb9rKGkUdyqRa9KIRtwOOKiApRsl1v5URV0WDeCx2xhSeNsdE86iA2hemA==
+babel-plugin-linaria-css-to-undefined@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/babel-plugin-linaria-css-to-undefined/-/babel-plugin-linaria-css-to-undefined-0.2.1.tgz#1b30ed314d522bbac229fed3cc43f1320067c21f"
+  integrity sha512-7okh4qRf+rF3yYg64rEiwj42cC+QUpZlp7YxCt7AM4/aEtYzyTS2xYaUTJH2PG4JvTFCWL7GE98dYLH5C3lQsw==
 
 babel-plugin-react-native@^1.0.1:
   version "1.0.1"
