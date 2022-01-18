@@ -709,15 +709,15 @@ babel-plugin-jest-hoist@^27.4.0:
     "@types/babel__core" "^7.0.0"
     "@types/babel__traverse" "^7.0.6"
 
-babel-plugin-linaria-css-to-undefined@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/babel-plugin-linaria-css-to-undefined/-/babel-plugin-linaria-css-to-undefined-0.1.0.tgz#eacb58f4e5c394cd33e0ed1adfc3d9b706ed3f59"
-  integrity sha512-5f8X/Owg7dwHWbm152z1uazQK8raw258OTamR7vXfJEr0HWwWD96wOucCX78E04Sr8axalb3wZjOvKbcRkZuHg==
+babel-plugin-linaria-css-to-undefined@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/babel-plugin-linaria-css-to-undefined/-/babel-plugin-linaria-css-to-undefined-0.2.0.tgz#5ffea470b0f5819bdb76343e2736a3a641d3e312"
+  integrity sha512-pm+UgJdKo5y9G7NabaVylSWpMvY4Hb9rKGkUdyqRa9KIRtwOOKiApRsl1v5URV0WDeCx2xhSeNsdE86iA2hemA==
 
-babel-plugin-react-native@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/babel-plugin-react-native/-/babel-plugin-react-native-1.0.0.tgz#395b7cdc0ac2b0f1f817cfce1f385197eb24d426"
-  integrity sha512-X1j/pjxd15uJkjACzVj6k8oSp4AU5GfgTAqMDGo1gUIDHG/CB4gfceidRhdX4NgTBsjiEYlM2aVfWYuH8FvXAA==
+babel-plugin-react-native@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/babel-plugin-react-native/-/babel-plugin-react-native-1.0.1.tgz#ee41e7651fa2f70edbd2c44faa7c4e45a7cc82e0"
+  integrity sha512-F+jMHF/EfMeW27FAI4+BNPVG8Tg0liHf622e6Zvkx3UL7DrkSWuhc22j8oaQXwRpFlF/4Huj/e9M6ej2VCYQQw==
 
 babel-plugin-styled-components-react-native-web@^0.2.2:
   version "0.2.2"
