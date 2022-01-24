@@ -1,6 +1,6 @@
 {
   "name": "@ornikar/babel-preset-kitt-universal",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "keywords": [],
   "author": "Christophe Hurpeau <christophe@hurpeau.com> (https://christophe.hurpeau.com)",
   "repository": "ornikar/babel-preset-kitt-universal",
