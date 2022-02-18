@@ -28,9 +28,13 @@
   },
   "devDependencies": {
     "@babel/core": "7.16.7",
+    "@babel/preset-react": "7.16.7",
+    "@linaria/babel-preset": "3.0.0-beta.15",
+    "@linaria/shaker": "3.0.0-beta.15",
     "@ornikar/prettier-config": "4.0.1",
     "jest": "27.4.7",
-    "prettier": "2.5.1"
+    "prettier": "2.5.1",
+    "react-refresh": "0.8.3"
   },
   "jest": {}
 }
