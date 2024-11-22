@@ -1,3 +1,3 @@
 {
-  "extends": ["config:js-lib", "@ornikar"]
+  "extends": ["config:js-lib", "github>ornikar/renovate-presets:frontend-legacy"]
 }
