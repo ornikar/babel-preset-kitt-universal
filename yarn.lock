@@ -1220,10 +1220,10 @@
   resolved "https://registry.yarnpkg.com/@linaria/utils/-/utils-3.0.0-beta.15.tgz#001d8dacf113c443960651593144e64bf39e995a"
   integrity sha512-CF0T8ueWjHK8zJT0oqdAq8JgL9a40WCyE5/t6q8WPvC7xRdsrfyUKA7Z8qEsQse2LKESVWJ5cvkkn8J80B6c+A==
 
-"@ornikar/prettier-config@4.0.7":
-  version "4.0.7"
-  resolved "https://registry.yarnpkg.com/@ornikar/prettier-config/-/prettier-config-4.0.7.tgz#b66613273e1a646478d6dbc963c2ce51a410c16d"
-  integrity sha512-/90Ra1s02Xk2177exy7vQOKGncKQB7+L9cdBmlG+6qehAir09NzxwHZ1Gqg5MFUXa5Bq5hrFI1VLYlNzkv9Qkw==
+"@ornikar/prettier-config@9.0.0":
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/@ornikar/prettier-config/-/prettier-config-9.0.0.tgz#ec0f7156ad2f2eb030ca9a9b7293b3a7297e2693"
+  integrity sha512-Kps2jybYStDBj/0LY/M0UB4T9LwigaML38WHgr32y4YP6I8hc1BnkJZ8Ju4E7q7wvhzwk+8d45Lp/vmpMAtBIA==
 
 "@sinonjs/commons@^1.7.0":
   version "1.8.3"
